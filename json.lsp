@@ -4,6 +4,7 @@
 ; TODO:
 ;   - Correct numbers handling
 ;   - Write formatter
+;   - Remove parasite (list) == nil equivalence
 
 (setq json:debug F)
 
